@@ -8,6 +8,9 @@ Client Side:
 
 1)An i2c module on Raspberry Pi(ARM architecture) that reads the input from Nunchuk Wii joystick.
 
+![White nunchuk](./images/nunchuk.jpg)
+
+
 
 
 2)A web client application that gets the read data from the joystick and sends it to the server.
