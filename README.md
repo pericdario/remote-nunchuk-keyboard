@@ -2,7 +2,10 @@ University project we did for our "Real Time System Programing 2" and "Fundament
 
 
 Platform : Raspberry Pi 2 - Model B 
+
 OS : Raspbian 2017
+
+Team name: Empty Head
 
 Client Side:
 
