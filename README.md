@@ -10,7 +10,7 @@ Client Side:
 
 ![Nunchuk](./images/nunchuk.jpg)
 
-2)A web client application that gets the read data from the joystick and sends it to the server.
+2)A web client application that gets the data from 1) and sends it to the server
 
 Server Side:
 
