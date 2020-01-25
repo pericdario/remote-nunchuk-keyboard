@@ -10,9 +10,6 @@ Client Side:
 
 ![Nunchuk](./images/nunchuk.jpg)
 
-
-
-
 2)A web client application that gets the read data from the joystick and sends it to the server.
 
 Server Side:
@@ -21,7 +18,7 @@ Server Side:
 
 4)Fake input module that simulates keyboard input based on data received from the server(joystick action).
 
-
+![Nunchuk](./images/finall.jpg)
 
 Mentors:
 
