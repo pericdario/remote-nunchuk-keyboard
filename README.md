@@ -8,7 +8,7 @@ Client Side:
 
 1)An i2c module on Raspberry Pi(ARM architecture) that reads the input from Nunchuk Wii joystick.
 
-![White nunchuk](./nunchuk.jpg)
+![Nunchuk](./images/nunchuk.jpg)
 
 
 
