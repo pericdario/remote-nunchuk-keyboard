@@ -1,7 +1,7 @@
 University project we did for our "Real time system programing 2" and "Fundamentals of Computer Networks 1" courses
 
 
-Platform : Raspberry Pi 2 - Model B
+Platform : Raspberry Pi 2 - Model B 
 OS : Raspbian 2017
 
 1)An i2c module on Raspberry Pi(ARM architecture) that reads the input from nunchuk wii joystick.
