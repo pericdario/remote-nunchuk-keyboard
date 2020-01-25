@@ -20,6 +20,9 @@ Server Side:
 
 ![Nunchuk](./images/finall.jpg)
 
+[Video](https://www.youtube.com/watch?v=AKCKFFHNbZQ&feature=youtu.be)
+
+
 Mentors:
 
 Real Time System Programing 2 : Prof. Miroslav Popović, Teaching Assistant Dejan Bokan.
