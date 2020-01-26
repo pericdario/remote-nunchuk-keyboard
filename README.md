@@ -1,4 +1,4 @@
-# University project we did for our "Real Time System Programing 2" and "Fundamentals of Computer Networks 1" courses
+University project we did for our "Real Time System Programing 2" and "Fundamentals of Computer Networks 1" courses
 
 
 Platform : Raspberry Pi 2 - Model B 
@@ -33,9 +33,9 @@ Server Side:
 
 Mentors:
 
-Real Time System Programing 2 : Prof. Miroslav Popović, Teaching Assistant Dejan Bokan.
+Real Time System Programing 2 : Prof. Miroslav Popović, Teaching Assistant Dejan Bokan
 
-Fundamentals of Computer Networks 1: Prof. Ilija Bašičević, Teaching Assistant Miloš Pilipović.
+Fundamentals of Computer Networks 1: Prof. Ilija Bašičević, Teaching Assistant Miloš Pilipović
 
 
 
