@@ -7,6 +7,11 @@ OS : Raspbian 2017
 
 Team name: Empty Head
 
+Team members:
+1. Jelena Kretler
+2. [Simeon Lagundzin](https://github.com/SimeonLag)
+3. [Dario Perić](https://github.com/pericdario)
+
 Client Side:
 
 1)An i2c module on Raspberry Pi(ARM architecture) that reads the input from Nunchuk Wii joystick.
