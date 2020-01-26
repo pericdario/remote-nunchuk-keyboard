@@ -1,4 +1,4 @@
-University project we did for our "Real Time System Programing 2" and "Fundamentals of Computer Networks 1" courses
+# University project we did for our "Real Time System Programing 2" and "Fundamentals of Computer Networks 1" courses
 
 
 Platform : Raspberry Pi 2 - Model B 
